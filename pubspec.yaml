@@ -1,5 +1,5 @@
-name: arabawy_app
-description: Arabawy App For Representative.
+name: google_map_with_tracking
+description: Google Map with Tracking App.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
