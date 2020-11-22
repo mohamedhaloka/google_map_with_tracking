@@ -30,6 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   google_maps_flutter:
   location:
+  change_app_package_name:
 
 dev_dependencies:
   flutter_test:

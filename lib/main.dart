@@ -119,7 +119,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   void dispose() {
-    // TODO: implement dispose
     super.dispose();
     _streamSubscription.cancel();
   }
